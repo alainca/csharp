@@ -1,0 +1,5 @@
+C:\Users\predi\source\repos\connexion base\bin\Debug\connexion base.exe.config
+C:\Users\predi\source\repos\connexion base\bin\Debug\connexion base.exe
+C:\Users\predi\source\repos\connexion base\bin\Debug\connexion base.pdb
+C:\Users\predi\source\repos\connexion base\obj\Debug\connexion base.exe
+C:\Users\predi\source\repos\connexion base\obj\Debug\connexion base.pdb

@@ -1,0 +1,6 @@
+C:\Users\predi\source\repos\lire dans un fichier\bin\Debug\lire dans un fichier.exe.config
+C:\Users\predi\source\repos\lire dans un fichier\bin\Debug\lire dans un fichier.exe
+C:\Users\predi\source\repos\lire dans un fichier\bin\Debug\lire dans un fichier.pdb
+C:\Users\predi\source\repos\lire dans un fichier\obj\Debug\lire dans un fichier.csprojAssemblyReference.cache
+C:\Users\predi\source\repos\lire dans un fichier\obj\Debug\lire dans un fichier.exe
+C:\Users\predi\source\repos\lire dans un fichier\obj\Debug\lire dans un fichier.pdb
