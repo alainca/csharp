@@ -1,0 +1,9 @@
+C:\Users\predi\source\repos\fichier txt en tableau\fichier txt en tableau\bin\Debug\fichier txt en tableau.exe.config
+C:\Users\predi\source\repos\fichier txt en tableau\fichier txt en tableau\bin\Debug\fichier txt en tableau.exe
+C:\Users\predi\source\repos\fichier txt en tableau\fichier txt en tableau\bin\Debug\fichier txt en tableau.pdb
+C:\Users\predi\source\repos\fichier txt en tableau\fichier txt en tableau\bin\Debug\ClassLibrary1.dll
+C:\Users\predi\source\repos\fichier txt en tableau\fichier txt en tableau\bin\Debug\ClassLibrary1.pdb
+C:\Users\predi\source\repos\fichier txt en tableau\fichier txt en tableau\obj\Debug\fichier txt en tableau.csprojAssemblyReference.cache
+C:\Users\predi\source\repos\fichier txt en tableau\fichier txt en tableau\obj\Debug\fichier txt en tableau.csproj.CopyComplete
+C:\Users\predi\source\repos\fichier txt en tableau\fichier txt en tableau\obj\Debug\fichier txt en tableau.exe
+C:\Users\predi\source\repos\fichier txt en tableau\fichier txt en tableau\obj\Debug\fichier txt en tableau.pdb
