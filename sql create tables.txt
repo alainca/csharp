@@ -1,0 +1,19 @@
+CREATE TABLE capteur(
+   id_capteur INT  NOT NULL    IDENTITY    PRIMARY KEY,
+   n_serie VARCHAR(50),
+   nom_ville VARCHAR(50),
+  
+);
+
+CREATE TABLE Releves(
+   id_releve INT  NOT NULL    IDENTITY    PRIMARY KEY,
+   date_heure_releve DATETIME,
+   temperature DECIMAL(15,2),
+   humidite DECIMAL(15,2),
+   id_capteur INT NOT NULL,
+   
+   
+   FOREIGN KEY(id_capteur) REFERENCES capteur(id_capteur),
+  
+);
+
