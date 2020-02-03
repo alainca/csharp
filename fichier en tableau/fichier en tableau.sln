@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "fichier en tableau", "fichier en tableau.csproj", "{C9C10FBC-6141-4B09-9AC8-2742A6CF8052}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "classereleve", "..\classereleve\classereleve.csproj", "{CA68E344-AD95-442E-9787-B92788208E3F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C9C10FBC-6141-4B09-9AC8-2742A6CF8052}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9C10FBC-6141-4B09-9AC8-2742A6CF8052}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9C10FBC-6141-4B09-9AC8-2742A6CF8052}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9C10FBC-6141-4B09-9AC8-2742A6CF8052}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA68E344-AD95-442E-9787-B92788208E3F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA68E344-AD95-442E-9787-B92788208E3F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA68E344-AD95-442E-9787-B92788208E3F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA68E344-AD95-442E-9787-B92788208E3F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {989CF42F-93B7-497A-8A2E-CE386E53963B}
+	EndGlobalSection
+EndGlobal

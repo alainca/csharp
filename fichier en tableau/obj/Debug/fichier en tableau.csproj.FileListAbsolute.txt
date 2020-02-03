@@ -1,0 +1,19 @@
+C:\Users\predi\source\repos\fichier en tableau\bin\Debug\fichier en tableau.exe.config
+C:\Users\predi\source\repos\fichier en tableau\bin\Debug\fichier en tableau.exe
+C:\Users\predi\source\repos\fichier en tableau\bin\Debug\fichier en tableau.pdb
+C:\Users\predi\source\repos\fichier en tableau\bin\Debug\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\predi\source\repos\fichier en tableau\bin\Debug\Microsoft.Owin.dll
+C:\Users\predi\source\repos\fichier en tableau\bin\Debug\Microsoft.Owin.Security.dll
+C:\Users\predi\source\repos\fichier en tableau\bin\Debug\Newtonsoft.Json.dll
+C:\Users\predi\source\repos\fichier en tableau\bin\Debug\Owin.dll
+C:\Users\predi\source\repos\fichier en tableau\bin\Debug\Microsoft.AspNet.SignalR.Core.pdb
+C:\Users\predi\source\repos\fichier en tableau\bin\Debug\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\predi\source\repos\fichier en tableau\bin\Debug\Microsoft.Owin.xml
+C:\Users\predi\source\repos\fichier en tableau\bin\Debug\Microsoft.Owin.Security.xml
+C:\Users\predi\source\repos\fichier en tableau\bin\Debug\Newtonsoft.Json.xml
+C:\Users\predi\source\repos\fichier en tableau\obj\Debug\fichier en tableau.csprojAssemblyReference.cache
+C:\Users\predi\source\repos\fichier en tableau\obj\Debug\fichier en tableau.csproj.CopyComplete
+C:\Users\predi\source\repos\fichier en tableau\obj\Debug\fichier en tableau.exe
+C:\Users\predi\source\repos\fichier en tableau\obj\Debug\fichier en tableau.pdb
+C:\Users\predi\source\repos\fichier en tableau\bin\Debug\classereleve.dll
+C:\Users\predi\source\repos\fichier en tableau\bin\Debug\classereleve.pdb
