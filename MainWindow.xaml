@@ -1,0 +1,32 @@
+﻿<Window x:Class="WpfApp1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp1"
+        mc:Ignorable="d"
+        Title="Accueil - Secure Temp" Height="450" Width="800">
+
+
+    <Grid>
+        <Button x:Name="ajout_capteur" Content="Ajouter un capteur" HorizontalAlignment="Left" Margin="31,372,0,0" VerticalAlignment="Top" Width="111" Click="ajout_capteur_Click" MouseLeave="captout" />
+        <TextBox x:Name="identifiant" HorizontalAlignment="Left" Height="23" Margin="161,372,0,0" TextWrapping="Wrap" Text="Identifiant" VerticalAlignment="Top" Width="139" TextChanged="identifiant_TextChanged"/>
+        <TextBox x:Name="nom_ville" HorizontalAlignment="Left" Height="20" Margin="324,373,0,0" TextWrapping="Wrap" Text="nom _ ville" VerticalAlignment="Top" Width="133" TextChanged="nom_ville_TextChanged"/>
+        <Button Content="Archiver en bdd" HorizontalAlignment="Left" Height="19" Margin="637,242,0,0" VerticalAlignment="Top" Width="132" Click="click_bdd" MouseLeave="bddout"/>
+        <Label x:Name="bddin"  Content="" HorizontalAlignment="Left" Height="30" Margin="472,338,0,0" VerticalAlignment="Top" Width="292"/>
+        <Button Content="Filtrer les relevés" HorizontalAlignment="Left" Height="18" Margin="481,293,0,0" VerticalAlignment="Top" Width="123" Click="Button_win2" RenderTransformOrigin="0.016,0.333"/>
+        <ListBox x:Name="listereleve" HorizontalAlignment="Left" Height="301" Margin="31,15,0,0" VerticalAlignment="Top" Width="426" SelectionChanged="ListBox_SelectionChanged"/>
+
+        <Button Content="Importer Relevés" HorizontalAlignment="Left" Height="19" Margin="477,246,0,0" VerticalAlignment="Top" Width="130"  Click="Button_Click_4"/>
+        <Label x:Name="Confirmation" Content="" HorizontalAlignment="Left" Height="25" Margin="44,328,0,0" VerticalAlignment="Top" Width="192"/>
+        <DataGrid x:Name="gridd" HorizontalAlignment="Left" Height="166" Margin="472,15,0,0" VerticalAlignment="Top" Width="292" SelectionChanged="DataGrid_SelectionChanged_1"/>
+        <Button x:Name="bcapt" Content="Voir les capteurs" HorizontalAlignment="Left" Height="20" Margin="477,202,0,0" VerticalAlignment="Top" Width="123" Click="bcapt_Click"/>
+        <TextBox x:Name="tbidcapt" HorizontalAlignment="Left" Height="20" Margin="637,203,0,0" TextWrapping="Wrap" Text=" " VerticalAlignment="Top" Width="125" TextChanged="TextBox_TextChanged"/>
+        <Label Name="Labelident" Content="Saisir l'Id du capteur" HorizontalAlignment="Left" Height="31" Margin="636,181,-6,0" VerticalAlignment="Top" Width="162"/>
+        <ComboBox x:Name="Selec_capteurs"  Height="24" Margin="613,338,10,0" VerticalAlignment="Top"/>
+
+
+    </Grid>
+
+
+</Window>
